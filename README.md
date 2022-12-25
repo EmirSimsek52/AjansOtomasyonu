@@ -1,5 +1,5 @@
 # AjansOtomasyonu
- C# ve SQL kullanarak yapmış oldum ajans otomasyon uygulaması
+ C# ve SQL kullanarak yapmış olduğum ajans otomasyon uygulaması
  <h1>Uygulama Hakkında</h1><p>
  1.Giriş olarak öncelikle kullanıcadan kullanıcı adı ve şifre istenir.<p>
  2.Kullanıcı adı ve şifre veritabanındaki verilerle eşleşiyorsa ana sayfaya yönledirilir.<p>
