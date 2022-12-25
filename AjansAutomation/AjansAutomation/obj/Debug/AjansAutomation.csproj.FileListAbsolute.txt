@@ -1,0 +1,16 @@
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\bin\Debug\AjansAutomation.exe.config
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\bin\Debug\AjansAutomation.exe
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\bin\Debug\AjansAutomation.pdb
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.Login.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.Properties.Resources.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.exe
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.pdb
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.AnaSayfa.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.KayitEkle.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.KayitGoster.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.ProjeKayit.resources
+C:\Users\Emir\source\repos\AjansAutomation\AjansAutomation\obj\Debug\AjansAutomation.Projeler.resources
